@@ -6,6 +6,8 @@
 **emotion_classification.ipynb** contains all project code.
 
 **training.csv and testing.csv** contains the data.
+These files can found in the following google drive link.
+https://drive.google.com/drive/folders/1aGBy58q0wvEStkD4qdcH2RPBHjJ8D7yP?usp=sharing
 
 ## Dataset
 
